@@ -1,4 +1,4 @@
-#Restaurant Bills Application
+# Restaurant Bills Application
 
 * @author Valdeta Demiri
  * Date Created: 02.09.2022
