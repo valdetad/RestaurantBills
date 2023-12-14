@@ -8,9 +8,7 @@
 
 The Restaurant Bills Application is designed to manage orders and calculate total costs in a restaurant setting. Users can add, receive, and calculate orders easily.
 
-# How to Use
+# How it works
 
-In this project, you will learn how to:
-
-- Make an order
-- Calculate the total cost for the order
+- We can make an order
+- Calculate the total cost for the given order
